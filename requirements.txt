@@ -5,5 +5,5 @@ scipy
 tqdm
 pyyaml
 xarray
-pytables
+tables
 pyarrow
