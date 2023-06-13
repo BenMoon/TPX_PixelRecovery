@@ -1,6 +1,7 @@
 pandas
 numpy
 holoviews
+hvplot
 scipy
 tqdm
 pyyaml
