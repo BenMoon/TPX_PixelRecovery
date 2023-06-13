@@ -4,7 +4,6 @@ holoviews
 scipy
 tqdm
 pyyaml
-urllib
 xarray
 pytables
 pyarrow
